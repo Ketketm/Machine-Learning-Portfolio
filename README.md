@@ -54,4 +54,4 @@ To run these notebooks locally:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Machine-Learning-Portfolio.git](https://github.com/YOUR_USERNAME/Machine-Learning-Portfolio.git)
+   git clone [https://github.com/Ketketm/Machine-Learning-Portfolio.git](https://github.com/Ketketm/Machine-Learning-Portfolio.git)
